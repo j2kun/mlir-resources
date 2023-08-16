@@ -1,6 +1,6 @@
 # MLIR Resources
 
-A list of articles and talks outside of the official MLIR docs that I've found useful for learning MLIR
+A list of articles and talks outside of the official MLIR docs that I've found useful for learning MLIR. For list of official tutorials, see the [MLIR Talks page](https://mlir.llvm.org/talks/) and the [Tutorials page](https://mlir.llvm.org/docs/Tutorials/).
 
 ## Tutorials
 
